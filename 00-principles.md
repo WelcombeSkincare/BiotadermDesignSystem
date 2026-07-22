@@ -10,7 +10,7 @@ Biotaderm is microbiome skincare, handmade in small batches in Welcombe, north D
 
 ## Tagline
 
-**Skin**Biome**Nourishment** — one unspaced word, with *Biome* in bold and *Skin* and *Nourishment* in regular weight. Supporting lines: "skin and microbiome nourishment" and "skincare that respects your intelligence, your microbiome".
+**Skin**Biome**Nourishment** — one unspaced word, with *Biome* in bold and *Skin* and *Nourishment* in regular weight. Supporting lines: "skin and microbiome nourishment" and "Skincare that respects your intelligence, skin and microbiome".
 
 ## The voice dial
 
@@ -33,7 +33,7 @@ The visual twin of this rule lives in photography: show the making, never imply 
 
 ### 2. Coastal sourcing
 
-The algal extracts (Fucus vesiculosus and others) are produced in France, from the same Atlantic species that grow on the Devon coast at Welcombe. The coast is the inspiration and the kinship, not the supply chain. Never "harvested from our shores" or "wild-gathered". Use "the same Atlantic species we know from our coast" or "sourced through specialist French extractors who work with the species we see at low tide".
+The bladderwrack (Fucus vesiculosus) is the same Atlantic species that grows on the Devon coast at Welcombe, but the material is a cold infusion in sunflower oil supplied from the UK, not a French extract and not locally harvested. The coast is the inspiration and the kinship, not the supply chain. Never "harvested from our shores" or "wild-gathered". Use "the same Atlantic species we know from our coast" or "supplied from the UK as a cold oil infusion". Published evidence transfers only to the supplied form: the water-soluble fucoidan and phlorotannin data does not carry into an oil infusion.
 
 ### 3. Location
 
@@ -41,8 +41,12 @@ Products are made **in Welcombe**. Always "in Welcombe" or "handmade in Welcombe
 
 ### 4. Fragrance
 
-Every product contains vetiver root oil (Vetiveria Zizanoides), which is an essential oil. The correct claim is **"no synthetic fragrance"**. Never "fragrance-free", never "no essential oils".
+Every product contains vetiver root oil (Vetiveria Zizanioides), which is an essential oil. The correct claim is **"no synthetic fragrance"**. Never "fragrance-free", never "no essential oils".
 
 ### 5. Support, not control
 
 Products work with the skin, not over it. This is a confirmed brand motif and a claims posture at once: no sebum-reduction or acne claims for the oily families, no before-and-after or condition-change claims anywhere. Move-toward-balance is credited to consistent gentle care, never to a specific product.
+
+### 6. Restraint is shown, not stated
+
+The brand can be dry, plain, and unwilling to overclaim. What it must never do is point at itself doing any of those things. A sentence that praises Biotaderm for its own honesty spends the credibility it is trying to build. The rule cuts inward as well: copy never casts doubt on another part of the site, on the range, or on our own discipline. Correcting the wider market is fair, because that doubt points outward.
