@@ -19,9 +19,9 @@ The brand's most important icon set. They appear on the label and carry real mea
 | Climate Clear | Globe with a leaf | Gorse | `#68903C` |
 | Formulation Clear | Flask with leaf and magnifier | Seamist | `#8A9CA2` |
 | Cruelty Free | Hands cradling a rabbit | Lambsear | `#A0AF99` |
-| Natural / Naturally Derived | Leaves with a droplet | Meadow | `#7BB65C` |
+| Natural or Naturally Derived | Leaves with a droplet | Meadow | `#7BB65C` |
 | Science Led | Molecular structure | Tulip | `#D15A63` |
-| Ethical Standards | Interlinked figures | Saltmarsh | `#6B6E31` |
+| Business Clear | Interlinked figures | Saltmarsh | `#6B6E31` |
 
 Two things still open on this set. Whether the three additions appear on the physical label or stay web and marketing only is undecided, and the Product Packaging and Label Design spec needs updating to match whatever is chosen. And the Natural icon's colour token was never formally set; Meadow is the recommendation. Both are in `OPEN-QUESTIONS.md`.
 
