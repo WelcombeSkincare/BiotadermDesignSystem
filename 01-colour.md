@@ -61,8 +61,8 @@ Each ethos icon is monochrome in a single palette colour, using tints of that co
 | Formulation Clear | Seamist | `#8A9CA2` |
 | Cruelty Free | Lambsear | `#A0AF99` |
 | Science Led | Tulip | `#D15A63` |
-| Ethical Standards | Saltmarsh | `#6B6E31` |
-| Natural / Naturally Derived | Meadow `#7BB65C` (recommended) | `#7BB65C` |
+| Business Clear | Saltmarsh | `#6B6E31` |
+| Natural or Naturally Derived | Meadow | `#7BB65C` |
 
 The Natural icon is drawn in green in the guidelines artwork but was never given a named token. Meadow is the one green not otherwise spoken for, so it is the natural home. Watch: Meadow sits close to Gorse (Climate Clear), so keep the two green icons from touching without separation. See `OPEN-QUESTIONS.md`.
 
