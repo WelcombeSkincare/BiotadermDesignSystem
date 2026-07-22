@@ -5,7 +5,7 @@
 The bottle label is divided into two vertical panels.
 
 - **Front panel (left):** the customer-facing, attract-and-inform side. Top to bottom: skin-type icon and name, the large skin-type number watermark behind, the product-style wordmark (FLOW / CORE / DEEP with its stylised letter), a dividing rule, the tagline, the active-ingredient description written to appeal to that skin type, and the horizontal Biotaderm logo at the foot. Centralised, black text unless stated otherwise.
-- **Rear / side panel (right):** the skin-type-independent information. Usage and function, the five ethos icons, the full INCI list in strict descending order by mass (including sub-1% ingredients, which is stricter than the legal minimum), website, size, the "Made in Welcombe Devon" organic shape, product life, address, barcode gap, and batch number.
+- **Rear / side panel (right):** the skin-type-independent information. Usage and function, five of the eight ethos icons, the full INCI list in strict descending order by mass (including sub-1% ingredients, which is stricter than the legal minimum), website, size, the "Made in Welcombe Devon" organic shape, product life, address, barcode gap, and batch number.
 
 Everything centralised unless stated. The skin-type hue is the loudest element; the style tone stays quiet.
 
