@@ -19,12 +19,7 @@ The brand's most important icon set. They appear on the label and carry real mea
 | Climate Clear | Globe with a leaf | Gorse | `#68903C` |
 | Formulation Clear | Flask with leaf and magnifier | Seamist | `#8A9CA2` |
 | Cruelty Free | Hands cradling a rabbit | Lambsear | `#A0AF99` |
-
-**Three additions** (newer):
-
-| Icon | Motif | Colour | Hex |
-| --- | --- | --- | --- |
-| Natural / Naturally Derived | Leaves with a droplet | Meadow (recommended) | `#7BB65C` |
+| Natural / Naturally Derived | Leaves with a droplet | Meadow | `#7BB65C` |
 | Science Led | Molecular structure | Tulip | `#D15A63` |
 | Ethical Standards | Interlinked figures | Saltmarsh | `#6B6E31` |
 
