@@ -6,7 +6,7 @@ The foundations everything else answers to. If a design or a line of copy breaks
 
 Care for your skin and microbiome, formed in nature, led by science, guided by ethics.
 
-Biotaderm is microbiome skincare, handmade in small batches in Welcombe, north Devon. Evidence-led formulation, cold-pressed organic plant oils, and full ingredient transparency, including published percentages. The character is the Quiet Chemist: sober, precise, and honest, with a coastal sensibility and a dry, honest-insider streak.
+Biotaderm is microbiome skincare, handmade in small batches in Welcombe, north Devon. Science-led formulation, cold-pressed organic plant oils, and full ingredient transparency, including published percentages. The character is the Quiet Chemist: sober, precise, and honest, with a coastal sensibility and a dry, honest-insider streak.
 
 ## Tagline
 
