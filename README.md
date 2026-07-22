@@ -32,4 +32,4 @@ Two production notes carried over from earlier work. Web SVG coming out of Claud
 
 ## Source of truth
 
-The Canva Brand Guidelines PDF is canonical for anything visual: colour, icon, photography, layout, graphic style. For wording, the latest Google Doc governs. Where this system departs from either, it is flagged in `OPEN-QUESTIONS.md` rather than quietly overriding.
+Source of truth is split by layer. The Biotaderm Brand Voice Google Doc governs wording and voice. The v2 Ingredient Record Specification governs ingredient page structure, disciplines and canonical values including the ethos library. The Canva Brand Guidelines govern visual style, with the caveat that the July 2026 export is known to be out of date on the ethos set and the bladderwrack provenance. Where this system departs from any of them, it is flagged in `OPEN-QUESTIONS.md` rather than quietly overriding.
