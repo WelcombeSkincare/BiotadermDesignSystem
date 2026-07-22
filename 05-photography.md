@@ -8,7 +8,7 @@ The hero, across every setting, is the product in its aluminium bottle, often pa
 
 ### 1. The coast (signature, should dominate)
 
-The north Devon coast: wet rock, rock pools, the line where shore meets sea. Seaweed is welcome and on-message, because the algal kinship is part of the story, as long as the surrounding copy never tips it into a harvesting claim. The image can show the seaweed we know from our coast. The words still have to stay honest about France.
+The north Devon coast: wet rock, rock pools, the line where shore meets sea. Seaweed is welcome and on-message, because the algal kinship is part of the story, as long as the surrounding copy never tips it into a harvesting claim. The image can show the seaweed we know from our coast. The words still have to stay honest about where the material actually comes from.
 
 ### 2. The lab (process)
 
